@@ -1,0 +1,6 @@
+[submodule "cookieCuttr"]
+	path = cookieCuttr
+	url = git@github.com:weare2ndfloor/cookieCuttr.git
+[submodule "jquery-cookie"]
+	path = jquery-cookie
+	url = git@github.com:carhartl/jquery-cookie.git

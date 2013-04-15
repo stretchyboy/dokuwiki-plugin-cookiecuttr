@@ -1,0 +1,8 @@
+base    cookiecuttr
+author  Martyn Eggleton
+email   martyn.eggleton@gmail.com
+date    2013-04-15
+name    cookieCuttr Plugin
+desc    A plugin for dokuwiki that uses the CookieCutter jQuery plugin to deal with the EU Cookie Law
+url     http://www.dokuwiki.org/plugin:cookiecuttr
+
