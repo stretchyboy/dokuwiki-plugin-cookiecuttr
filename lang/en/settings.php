@@ -5,4 +5,5 @@ $lang['cookieDisable'] = 'Comma seperated list of selectors to hide with cookieC
 $lang['cookiePolicyDWPage'] = 'The pagename for the privacy policy ';
 $lang['cookieMessage'] = 'The message in the cookie bar';
 $lang['cookieDeclineButton'] = 'Show a decline button';
+$lang['cookieNotificationLocationBottom'] = 'Show the message at the bottom of the page';
 #$lang['cookieErrorMessage'] = 'edit the message you’d like to appear in place of the functionality';

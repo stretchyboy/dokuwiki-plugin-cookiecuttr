@@ -27,6 +27,7 @@ class action_plugin_cookiecuttr extends DokuWiki_Action_Plugin {
                         'cookiePolicyDWPage',
                         'cookieMessage',
                         'cookieDeclineButton',
+                        'cookieNotificationLocationBottom'
                         #'cookieErrorMessage'
                         );
         
@@ -49,7 +50,7 @@ class action_plugin_cookiecuttr extends DokuWiki_Action_Plugin {
         
         $event->data["script"][] = array (
           "type" => "text/javascript",
-          "charset" => "utf-8",
+          #"charset" => "utf-8",
           "_data" => "jQuery(document).ready(function () {jQuery.cookieCuttr(".$sOpts.");});",
           );
     }
