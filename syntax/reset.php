@@ -3,7 +3,7 @@
  * Plugin Now: Inserts a timestamp.
  * 
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * @author     Christopher Smith <chris@jalakai.co.uk>
+ * @author     Martyn Eggleton <martyn.eggleton@gmail.com>
  */
 
 // must be run within DokuWiki
